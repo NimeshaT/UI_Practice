@@ -1,0 +1,55 @@
+#header{
+    width: 100%;
+    height: 30px;
+    background: #E65190;
+    position: relative;
+}
+#secOne{
+    width: 100%;
+    height: 120px;
+    background: white;
+    position: relative;
+}
+#secTwo{
+    width: 50%;
+    height: 300px;
+    background: white;
+    position: relative;
+    margin: 0 auto;
+}
+#secThree{
+    width: 50%;
+    height: 300px;
+    background:white ;
+    position: relative;
+}
+#secFour{
+    width: 50%;
+    height: 300px;
+    background:white ;
+    position: relative;
+}
+#secFive{
+    width: 50%;
+    height: 300px;
+    background:green ;
+    position: relative;
+}
+#secSix{
+    width: 100%;
+    height: 511px;
+    background:white ;
+    position: relative;
+}
+#secSeven{
+    width: 100%;
+    height: 200px;
+    /*background:#E65190 ;*/
+    position: relative;
+}
+#secEight{
+    width: 100%;
+    height: 90px;
+    background:#80254D ;
+    position: relative;
+}
